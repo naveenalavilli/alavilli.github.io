@@ -6,7 +6,9 @@
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@naveenalavilli)
   - :office: [LinkedIn](https://www.linkedin.com/in/alavilli)  
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenalavilli)](https://github.com/naveenalavilli/github-readme-stats)
+
 ## Articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@naveenalavilli/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@naveenalavilli/0" alt="Recent Article 0">
